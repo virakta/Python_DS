@@ -1,2 +1,3 @@
 # Python_DS
-Data stracture in Python
+Python Data Structures 
+
